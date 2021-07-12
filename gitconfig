@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tasso_henrique@hotmail.com
+	name = Tasso Rodrigues
